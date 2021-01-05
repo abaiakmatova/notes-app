@@ -1,1 +1,1 @@
-# notes-app
+A vanila javascript note taking app.
